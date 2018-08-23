@@ -49,6 +49,7 @@ public class MyMod {
 
         GameRegistry.addSmelting(myBlock, new ItemStack(myItem, 2), 100f);     //冶炼公式
 
+
         GameRegistry.addRecipe(new ItemStack(myBlock, 1), "##",'#',myItem);
         GameRegistry.addRecipe(new ItemStack(myWeapon, 1), "#","#","X",'#',myItem,'X',Items.stick);
         GameRegistry.addRecipe(new ItemStack(myTool, 1), "###", " x ", " x ", '#', myItem, 'x', Items.stick);
