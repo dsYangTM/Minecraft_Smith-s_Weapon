@@ -1,6 +1,6 @@
-package com.mclearning.learningMod.blocks;
+package com.smsweapon.smsweaponmod.blocks;
 
-import com.mclearning.learningMod.MyMod;
+import com.smsweapon.smsweaponmod.MyMod;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.client.audio.SoundList;
