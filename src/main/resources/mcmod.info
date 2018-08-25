@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "smsweaponmod",
+  "name": "Smith's Weapon",
+  "description": "一个仍在开发中的武器模组",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["阿金"],
+  "credits": "好像也就阿金一个人",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

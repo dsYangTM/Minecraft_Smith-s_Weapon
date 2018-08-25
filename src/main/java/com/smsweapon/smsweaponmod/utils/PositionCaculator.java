@@ -1,4 +1,4 @@
-package com.mclearning.learningMod.utils;
+package com.smsweapon.smsweaponmod.utils;
 
 public class PositionCaculator {
     private Double posX;
